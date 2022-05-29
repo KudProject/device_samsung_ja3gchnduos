@@ -15,6 +15,3 @@ ro.ril.needs_videocall_field=false
 # Multisim (uncomment to enable)
 #persist.radio.multisim.config=dsda
 #ro.multisim.simslotcount=2
-
-# OTA
-ro.ota.manifest=https://raw.githubusercontent.com/exynos5410/weekly_ota/cm-14.1/ja3gchnduos.xml
